@@ -1,6 +1,6 @@
 /*
 fp16对照fp32，保留fp16
-
+LF是否替换成了CLRF
 */
 
 #include <stdio.h>
